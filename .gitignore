@@ -1,0 +1,6 @@
+target/
+.idea/
+*.jpg
+*.iml
+!**/src/main/**/target/
+!**/src/test/**/target/
